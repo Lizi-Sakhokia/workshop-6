@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+header{
+    padding: 30px;
+    border-bottom: #C3C3C3 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+}
+header ul a{
+    padding: 5px 10px;
+    color: #ffffff;
+}
+header li{
+    margin-top: 10px;
+}
+header h1{
+    color: #ffffff;
+}
+.werili{
+    color: #ffffff;
+    padding: 18px;
+    font-size: 128px;
+    letter-spacing: 200px;
+}
+.mshobeli{
+    color: #ffffff;
+    padding: 18px;
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: #C3C3C3 1px solid;
+}
+.dro{
+    width: 296px;
+    height: 48px;
+}
+.shabati{
+    width: 115px;
+    height: 48px;
+}
+.mesame{
+    width: 658px;
+    height: 238px;
+}
+.shvili{
+    margin-bottom: 30px;
+}
+.container{
+    font-size: 14px;
+    overflow: hidden;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+article{
+    color: #ffffff;
+}
+.first img{
+    width: 464px;
+    height: 628px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.second img{
+    width: 464px;
+    height: 628px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.third img{
+    width: 464px;
+    height: 628px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.gel{
+    display: flex;
+}
+.suratebi{
+    width: 950px;
+    height: 613px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.suratebi img{
+    width: 200px;
+    height: 270px;
+}
+.suratebi p{
+    margin-left: 80px;
+}
+.konvertebi {
+    width: 272px;
+    height: 132px;
+    margin-top: 70px;
+    color: #ffffff;
+    text-align: right;
+    font-size: 20px;
+}
+.mtavari{
+    margin: 50px;
+    display: flex;
+}
+.alone{
+    width: 400px;
+    height: 540px;
+}
+.alone img{
+    width: 400px;
+    height: 540px;
+}
+.yviteli{
+    margin-left: 30px;
+    color: #ffffff;
+    font-size: 18px;
+}
+.adin{
+    font-size: 22px;
+}
+.dva{
+    margin-top: 30px;
+}
+.tri{
+    margin-top: 18px;
+}
+.ferebi{
+    display: flex;
+}
+.chitire{
+    margin-top: 18px;
+}
+.wremshobeli{
+    width: 150px;
+    margin-top: 18px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.wre{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.wre1{
+    background-color: #F6B058;
+}
+.wre2{
+    background-color: #3E93F6;
+}
+.wre3{
+    background-color: #FF7070;
+}
+.wre4{
+    background-color: #E8E8E8;
+}
+.piat{
+    font-size: 22px;
+    margin-top: 345px;
+}
+.piat span{
+    font-size: 15px;
+    margin-left: 5px;
+}
+footer{
+    color: #C3C3C3;
+    border-top: #C3C3C3 1px solid;
+    display: flex;
+}
+footer img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.rogor{
+    margin-left: 20px;
+    margin-top: 50px;  
+}
+footer p{
+    font-size: 22px;
+}
+footer span{
+    font-size: 15px;
+}
